@@ -27,8 +27,8 @@ Or you could install them manually to other path you like, just follow here: htt
 When your environment is ready, you could run shell scripts provided. For example:
 ``` Bash
 cd scripts
-./train_mujoco.sh  # run with HAPPO/HATRPO on Multi-agent MuJoCo
-./train_smac.sh  # run with HAPPO/HATRPO on StarCraft II
+./train_mujoco.sh  # run Multi-agent MuJoCo
+./train_smac.sh  # run StarCraft II
 ```
 
 If you would like to change the configs of experiments, you could modify sh files or look for config files for more details. 
